@@ -5,7 +5,8 @@
 <br />
 User-interface of application that allows you to create a wager with some ethereum on the over/under of the NBA games to be played that day.
 
-Built using: React/Redux, antd design library 
+Built using: React/Redux, [antd design library](https://ant.design/) 
+
 
 <strong>/contracts</strong>
 <br />
