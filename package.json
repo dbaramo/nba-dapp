@@ -1,0 +1,30 @@
+{
+  "name": "nba-dapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "async-polling": "^0.2.1",
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "moment": "^2.19.3",
+    "mongoose": "^5.0.1",
+    "nodemon": "^1.12.5",
+    "osmosis": "^1.1.5",
+    "web3": "^1.0.0-beta.18"
+  },
+  "devDependencies": {
+    "jest": "^22.0.4"
+  },
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
