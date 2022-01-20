@@ -1,5 +1,7 @@
 # nba-dapp
+Application that allows you to create over/under wagers on NBA games that can be sent to anyone you want. Wagers are settled and created via smart contract using Ethereum.
 
+![nba-dapp gif](https://media.giphy.com/media/RpFK8hHLvIF42wKZpq/giphy.gif)
 
 <strong>/client</strong>
 <br />
